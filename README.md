@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:064E3B,100:06B6D4&height=200&section=header&text=Alaguraja%20K&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20AI%20Agents%20%7C%20Backend%20Development&descAlignY=58&descSize=17&descColor=34D399" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:064E3B,100:06B6D4&height=200&section=header&text=Alaguraja%20K&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Aspiring Software%20Engineer%20%7C%20AI%2FML%20%7C%20AI%20Agents%20%7C%20Backend%20Development&descAlignY=58&descSize=17&descColor=34D399" width="100%"/>
 
 <a href="https://github.com/Alaguraja787">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=680&lines=Building+intelligent+systems+that+reason+%26+solve;Exploring+AI+Agents+and+Agentic+AI;Learn.+Build.+Solve.+Improve." alt="Typing SVG" />
