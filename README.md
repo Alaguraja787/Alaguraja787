@@ -12,7 +12,7 @@
 
 ```bash
 > whoami
-Alaguraja K — Pre-final year B.Tech student building software systems & AI agents
+Alaguraja K — Pre-final year B.Tech Artificial Intelligence & Data Science student building software systems & AI agents
 ```
 
 ---
