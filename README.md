@@ -102,7 +102,7 @@ Continuously improving problem-solving and Data Structures & Algorithms
 <tr>
 <td align="center">
 <h3>🏅 Top 10 Finalist</h3>
-<b>Hackarena 2.0 — Zonals Round</b>
+<b>Hackarena 2.0</b>
 </td>
 </tr>
 </table>
