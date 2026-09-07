@@ -19,7 +19,7 @@ Alaguraja K — third-year B.Tech student building software systems & AI agents
 
 ## 🧭 About Me
 
-I'm a third-year B.Tech student focused on building software systems and exploring Artificial Intelligence, Machine Learning, and AI Agent development.
+I'm a Pre-final year B.Tech student focused on building software systems and exploring Artificial Intelligence, Machine Learning, and AI Agent development.
 
 I'm particularly interested in designing intelligent systems and AI agents that can reason, interact with data, use tools, and solve real-world problems.
 
