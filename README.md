@@ -104,6 +104,20 @@ Continuously improving problem-solving and Data Structures & Algorithms
 
 ---
 
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alaguraja787/Alaguraja787/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alaguraja787/Alaguraja787/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake animation eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/Alaguraja787/Alaguraja787/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
 ## 🏆 Achievement
 
 <div align="center">
@@ -133,6 +147,14 @@ Check out my pinned repositories below for a closer look at what I've been build
 I'm continuously learning by building practical systems and exploring how intelligent software can solve real-world problems.
 
 </div>
+
+<details>
+<summary><b>💭 More on how I approach building things</b></summary>
+<br/>
+
+I like starting small — getting something working end-to-end first, then iterating on it. Most of what I learn comes from building real systems, running into real problems, and working through how to solve them properly rather than just theoretically.
+
+</details>
 
 ---
 
